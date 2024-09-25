@@ -1,4 +1,4 @@
-# **Repositório da disciplina Introdução ao Armazenamento e Análise de Dados - 2023.1**
+# **Repositório da disciplina Introdução ao Armazenamento e Análise de Dados - 2024**
 
 ## Este programa consiste na execução das operações CRUD com o banco de dados MySQL utilizando a interface web Streamlit.
 
